@@ -1,2 +1,1 @@
-# python
-python study
+开始学习python
